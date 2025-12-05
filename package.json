@@ -9,6 +9,7 @@
     "@sap/xssec": "^4",
     "express": "^4",
     "express-fileupload": "^1.5.2",
+    "openai": "^6.10.0",
     "uuid": "^13.0.0"
   },
   "devDependencies": {
