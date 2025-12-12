@@ -11,6 +11,7 @@ entity Documents {
   createdAt     : Timestamp;
 }
 
+
 entity RAG_DOCUMENTS_V2 {
   key ID           : UUID;
   source           : String;
